@@ -1,4 +1,4 @@
-# Requisitos do Jogo de Forca Online
+# Documento de Requisitos do Jogo de Forca Online
 
 ## 1. Descrição Geral
 O Jogo de Forca Online é uma aplicação web onde usuários podem:
