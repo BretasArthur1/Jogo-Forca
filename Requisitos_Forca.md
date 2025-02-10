@@ -30,7 +30,7 @@ O Jogo de Forca Online é uma aplicação web onde usuários podem:
 ## 3. Requisitos Não Funcionais
 
 1. **RNF001** - O sistema deve estar disponível em 24 horas por dia, 7 dias por semana, com downtime inferior a 1%.
-2. **RNF002** - O carregamento inicial da tela de jogo deve ocorrer em menos de 2 segundos (em conexões banda larga).
+2. **RNF002** - O carregamento inicial da tela de jogo deve ocorrer em menos de 3 segundos (em conexões banda larga).
 3. **RNF003** - A aplicação deve ser responsiva e compatível com os principais navegadores e dispositivos móveis.
 4. **RNF004** - O sistema deve armazenar dados de usuário e de partidas em um banco de dados seguro, garantindo confidencialidade.
 5. **RNF005** - A aplicação deve ter logs de acesso e erros para auditoria e resolução de problemas.
