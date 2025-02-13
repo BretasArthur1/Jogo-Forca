@@ -14,7 +14,6 @@ Este repositório faz parte de uma atividade prática para o curso de Desenvolvi
 ## Organização do Repositório
 - **Requisitos_Forca.md**: Documento que descreve os requisitos funcionais e não funcionais do projeto.
 - **README.md**: Este arquivo, com instruções e descrição do projeto.
-- (opcional) **.gitignore**: Arquivo para exclusões de arquivos/pastas que não devem ser versionados.
 
 ## Como Contribuir
 1. Faça um Fork deste repositório.
